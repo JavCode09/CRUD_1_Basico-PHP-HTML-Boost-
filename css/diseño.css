@@ -1,0 +1,35 @@
+body{
+    background: url('../Imagenes/color1.png');
+    display: flex;
+    flex-flow: column;
+}
+
+.letrero{
+    background-color: rgba(0, 0, 0, .5);  
+}
+
+h3{
+    color: white;
+    letter-spacing: 1px;
+    font-family: verdana;
+    padding: 5px;
+    text-align: center;
+}
+h4{
+    letter-spacing: 1px;
+    padding: 5px;
+    font-size: 16px;
+    color: #080808 ;
+    text-align: center;
+}
+
+
+.formulario1{
+    background: rgba(0, 0, 0, .7);
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 15%;
+    border-radius: 5px;
+    padding: 20px;
+}
+

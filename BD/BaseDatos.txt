@@ -1,0 +1,12 @@
+
+create database Proyecto2_MVC;
+use Proyecto2_MVC;
+
+Create table Personas(
+    IDpersonas int primary key auto_increment,
+    Nombre varchar(15),
+    Apellidos varchar(20),
+    Direccion varchar (10)
+);
+
+drop table Personas;
